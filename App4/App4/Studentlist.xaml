@@ -12,7 +12,7 @@
               <StackLayout>
                 <Label Text="{Binding Id}"></Label>
                 <Label Text="{Binding Name}"></Label>
-                <Label Text="{Binding Address}"></Label>
+              <!--  <Label Text="{Binding Address}"></Label>-->
               <!--  <Label Text="{Binding Phone}"></Label>-->
               </StackLayout>              
           <!--</Grid>-->
